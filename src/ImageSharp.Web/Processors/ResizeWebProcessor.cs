@@ -102,7 +102,7 @@ namespace SixLabors.ImageSharp.Web.Processors
         /// </summary>
         /// <param name="image">The image to process.</param>
         /// <param name="commands">The ordered collection containing the processing commands.</param>
-        /// <param name="parser">The command parser use for parting commands.</param>
+        /// <param name="parser">The command parser use for parsing commands.</param>
         /// <param name="culture">
         /// The <see cref="CultureInfo"/> to use as the current parsing culture.
         /// </param>
